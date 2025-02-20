@@ -32,12 +32,6 @@ Full-Stack Web Developer with a strong problem-solving mindset and a research-dr
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andiartori&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/andiartori)
